@@ -1,8 +1,8 @@
 # Site settings
-title:       Material design...
+title:       Design
 email:       tudor@saitoc.me
 author:      Tudor Saitoc
-description: "[WIP] Sharing knowledge with a better user experience via Material design by Google"
+description: Sharing knowledge with a better user experience via Google design
 baseurl:     ""
 url:         "https://m.tudr.co"
 date_format: "%b %-d, %Y"

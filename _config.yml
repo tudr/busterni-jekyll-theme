@@ -4,7 +4,7 @@ email:       tudor@saitoc.me
 author:      Tudor Saitoc
 description: "[WIP] Knowledge sharing user experience"
 baseurl:     /
-url:         "https://m.tudr.co"
+#url:         "https://m.tudr.co"
 date_format: "%b %-d, %Y"
 permalink: none
 
@@ -35,6 +35,7 @@ defaults:
 markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
+highlighter: rouge
 sass:
   style: compressed
 gems:

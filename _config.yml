@@ -3,8 +3,8 @@ title:       tudr.co
 email:       tudor@saitoc.me
 author:      Tudor Saitoc
 description: "[WIP] Knowledge sharing user experience"
-baseurl:     "m"
-url:         "http://m.tudr.co"
+baseurl:     /
+url:         "https://m.tudr.co"
 date_format: "%b %-d, %Y"
 permalink: none
 

@@ -3,7 +3,7 @@ title:       Material design...
 email:       tudor@saitoc.me
 author:      Tudor Saitoc
 description: "[WIP] Sharing knowledge with a better user experience via Material design by Google"
-baseurl:     /
+baseurl:     ""
 url:         "https://m.tudr.co"
 date_format: "%b %-d, %Y"
 permalink: none
